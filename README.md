@@ -22,7 +22,7 @@ docker push pyflink/playgrounds:1.13.0-rc2
 1. Install [Docker](https://www.docker.com). 
 2. Get Docker Compose configuration
 ```
-git clone https://github.com/pyflink/playgrounds.git
+git clone https://github.com/talihbayram/pyflink.git
 ```
 3. Setup environment
 * **Linux & MacOS**
